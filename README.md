@@ -926,4 +926,4 @@ Contact
 For bugs, crashes, or other comments please contact
 FakeNet@mandiant.com.
 
-Subscribe to the FLARE mailing list for community announcements! Email "subscribe" to flare-external@google.com
+Subscribe to the FLARE mailing list for community announcements! Email "subscribe" to flare-external@google.com(mailto:flare-external@google.com?subject=subscribe).
